@@ -34,7 +34,7 @@ export default function BannerCarousel() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src="/banner1.png"
+              src="/banner1.jpg"
               className="d-block w-100"
               alt="Banner 1"
               style={{ height: "450px", objectFit: "cover" }}
@@ -43,7 +43,7 @@ export default function BannerCarousel() {
 
           <div className="carousel-item">
             <img
-              src="/banner2.png"
+              src="/banner2.jpg"
               className="d-block w-100"
               alt="Banner 2"
               style={{ height: "450px", objectFit: "cover" }}
@@ -52,7 +52,7 @@ export default function BannerCarousel() {
 
           <div className="carousel-item">
             <img
-              src="/banner3.png"
+              src="/banner3.jpg"
               className="d-block w-100"
               alt="Banner 3"
               style={{ height: "450px", objectFit: "cover" }}
